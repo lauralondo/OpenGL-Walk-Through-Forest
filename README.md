@@ -1,1 +1,2 @@
-Take a walk through a magical OpenGL forest!
+Take a walk through a magical forest!
+=====================================
