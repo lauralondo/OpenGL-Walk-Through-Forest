@@ -14,7 +14,7 @@ Walk through a MAGICAL forest!
 
  		[mouse click & drag] look around
  		OR 		[q] look left
- 				[e] look right      (but really, its much nicer with the mouse)
+ 				[e] look right  
 
  		[spacebar] 	jump
    	   	   [h]		show / hide help menu
