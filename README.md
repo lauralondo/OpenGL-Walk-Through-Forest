@@ -1,10 +1,6 @@
 Walk through a MAGICAL forest!
 ==============================
 
-  Laura Londo
-  22 March 2014
-  Walk Through Forest
-
   This program takes you on a magical journey through a forest where you can
   walk and jump around! Uses cones, cylinders, spheres and other shapes to create
   the objects in the environment. gluLookAt is used for the camera.
@@ -22,3 +18,6 @@ Walk through a MAGICAL forest!
  		[spacebar] 	jump
    	   	   [h]		show / hide help menu
  		  [esc]		quit
+
+
+![Forest](https://raw.githubusercontent.com/lauralondo/OpenGL-Walk-Through-Forest/master/forest.png)
