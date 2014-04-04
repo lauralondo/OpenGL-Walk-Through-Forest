@@ -6,6 +6,7 @@ Walk through a MAGICAL forest!
   the objects in the environment. gluLookAt is used for the camera.
 
   Directions:
+
  		[w] move forward
  		[s] move backwards
  		[a] strafe left
