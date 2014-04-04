@@ -3,7 +3,7 @@ Walk through a MAGICAL forest!
 
   This program takes you on a magical journey through a forest where you can
   walk and jump around! Uses cones, cylinders, spheres and other shapes to create
-  the objects in the environment. gluLookAt is used for the camera.
+  the objects in the environment. GluLookAt and perspective projection is used for viewing.
 
   Directions:
 
